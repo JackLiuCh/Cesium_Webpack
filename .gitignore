@@ -1,0 +1,6 @@
+/.vscode/
+/node_modules/
+/dist/
+package-lock.json
+webpack.config(ok).js
+webpack.config2.js
